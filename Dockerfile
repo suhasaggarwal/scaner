@@ -1,4 +1,4 @@
-FROM python:3.4
+FROM python:3.8
 
 ENV REDIS_HOST redis
 ENV ORIENTDB_HOST orientdb
